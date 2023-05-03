@@ -14,3 +14,5 @@ git
 
 #5. git merge <branch_name> #This merges the code from <branch_name> to 
 #the current branch
+
+# mergint branch 1 and main
