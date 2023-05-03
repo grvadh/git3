@@ -16,3 +16,4 @@ git
 #the current branch
 
 # mergint branch 1 and main
+# now checking for second times
