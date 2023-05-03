@@ -16,4 +16,9 @@ git
 #the current branch
 
 # mergint branch 1 and main
+<<<<<<< HEAD
 # now checking for second times
+=======
+
+print(("i have addedsth"))
+>>>>>>> develop
